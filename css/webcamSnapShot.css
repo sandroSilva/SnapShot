@@ -1,0 +1,65 @@
+body{
+	background-color: #000000;
+}
+
+#conteudo{
+	background-color: #242424;
+	width: 960px;
+	height: 600px;
+	margin: auto;
+}
+
+h1 {
+	color: #989898;
+	text-align: center;
+	font-weight:bold;
+	margin-top:15px;
+}
+
+video {
+	width: 280px;
+	height: 210px;
+}
+
+.box {
+	width: 300px;
+	height: 230px;
+	float: left;
+	background-color: #0b0b0b;
+	margin-left: 120px;
+	
+}
+
+.webcam {
+	margin-left: 10px;
+	margin-top: 10px;
+	position: relative; 
+}
+
+button{
+    padding: 6px 10px;
+    cursor:pointer;
+    color: #989898;
+    background: #0b0b0b;
+    border: none;
+    width: 200px;
+    height: 50px;
+}
+
+footer {
+	top: 50px;
+	font: 16px/22px "Verdana";
+	color: #FF0000;
+	text-align: center;
+	font-weight:bold;
+	position: relative;
+}
+
+#capture {
+	margin-left: 171px;
+}
+
+
+#snapshot{
+	margin-left: 215px;
+}
